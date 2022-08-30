@@ -1,7 +1,7 @@
-let numeroA = Number(prompt("Qual o primeiro numero?"))
+const numeroA = Number(prompt("Qual o primeiro numero?"))
 console.log ("O primeiro numero é", numeroA)
 
-let numeroB = Number(prompt("Qual o segundo numero?"))
+const numeroB = Number(prompt("Qual o segundo numero?"))
 console.log ("O segundo numero é", numeroB)
 
 console.log ("O primeiro numero é maior que o segundo?", numeroA > numeroB)
